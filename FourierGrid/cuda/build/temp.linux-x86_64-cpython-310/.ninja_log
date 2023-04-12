@@ -1,0 +1,9 @@
+# ninja log v5
+0	12625	1678875483473608017	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/adam_upd.o	1774a74cb00191b
+1	36295	1678875507157339735	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/adam_upd_kernel.o	b350721cf3c15102
+7	12566	1678875520541188196	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/ub360_utils.o	e0f1b4299bca2529
+7	36374	1678875544348918751	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/ub360_utils_kernel.o	60693c7239c5a2a
+6	13706	1678875558852754676	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/render_utils.o	88c5f52b8e426299
+7	37709	1678875582856483247	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/render_utils_kernel.o	8a5f57e288284882
+6	12692	1678875596392330248	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/total_variation.o	81fb2f345687b247
+6	36449	1678875620156061743	/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/build/temp.linux-x86_64-cpython-310/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/total_variation_kernel.o	7ac17f2e11ba5b9c

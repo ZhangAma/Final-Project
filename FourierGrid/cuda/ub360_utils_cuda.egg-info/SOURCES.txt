@@ -1,0 +1,7 @@
+setup.py
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/ub360_utils.cpp
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/ub360_utils_kernel.cu
+ub360_utils_cuda.egg-info/PKG-INFO
+ub360_utils_cuda.egg-info/SOURCES.txt
+ub360_utils_cuda.egg-info/dependency_links.txt
+ub360_utils_cuda.egg-info/top_level.txt

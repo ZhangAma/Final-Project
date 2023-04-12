@@ -1,0 +1,7 @@
+setup.py
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/total_variation.cpp
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/total_variation_kernel.cu
+total_variation_cuda.egg-info/PKG-INFO
+total_variation_cuda.egg-info/SOURCES.txt
+total_variation_cuda.egg-info/dependency_links.txt
+total_variation_cuda.egg-info/top_level.txt

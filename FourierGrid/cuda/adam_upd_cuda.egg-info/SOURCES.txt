@@ -1,0 +1,7 @@
+setup.py
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/adam_upd.cpp
+/home/lzp/LargeScaleNeRFPytorch/FourierGrid/cuda/adam_upd_kernel.cu
+adam_upd_cuda.egg-info/PKG-INFO
+adam_upd_cuda.egg-info/SOURCES.txt
+adam_upd_cuda.egg-info/dependency_links.txt
+adam_upd_cuda.egg-info/top_level.txt
